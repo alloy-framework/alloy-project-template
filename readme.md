@@ -1,6 +1,6 @@
 ## Sample Alloy project
 
-To build this project, run
+To build this project, clone this repository then run
 
 ```bash
 > pnpm install
