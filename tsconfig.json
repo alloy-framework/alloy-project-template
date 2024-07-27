@@ -11,7 +11,6 @@
     "sourceMap": true,
     "declarationMap": true,
     "jsx": "preserve",
-
     "emitDeclarationOnly": true,
     "outDir": "dist",
   },
